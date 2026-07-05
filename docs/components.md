@@ -40,6 +40,16 @@
 | Shaft diameter | 8mm |
 | Shaft length | 9.6mm |
 
+## Mounting
+
+| Measurement | Value (mm) |
+|------------|-----------:|
+| Hole diameter | 4.3 |
+| Hole spacing Y (inner edge to inner edge)| 24.5|
+| Hole spacing X (inner edge to inner edge)| 36.6 |
+| Hole spacing X to side (from inner edge)| 4 |
+| Hole spacing Y to side (from inner edge)| 7.1 |
+
 ### Notes
 
 - Measured by hand
